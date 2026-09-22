@@ -1,0 +1,6 @@
+apache
+RewriteEngine On
+
+# Clean Blog URL
+RewriteRule ^blog/([^/]+)/?$ blog-detail.php?slug=$1 [L,QSA]
+
