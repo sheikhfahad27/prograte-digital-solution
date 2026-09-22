@@ -693,7 +693,7 @@ $categories_result = $conn->query(
                         </th>
 
                         <th>
-                            Actions
+                            Action
                         </th>
 
                         <th>
