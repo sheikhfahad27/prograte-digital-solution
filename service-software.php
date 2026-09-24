@@ -109,6 +109,20 @@ $pageTitle = "Software Solutions | Prograte Digital Solutions";
 
 <div class="service-hero-content">
 
+<nav class="breadcrumb" aria-label="Breadcrumb">
+
+    <a href="index.php">Home</a>
+
+    <span>/</span>
+
+    <a href="services.php">Services</a>
+
+    <span>/</span>
+
+    <span>Software Solutions</span>
+
+</nav>
+
 <span class="small-title">
 OUR SERVICES / SOFTWARE SOLUTIONS
 </span>
