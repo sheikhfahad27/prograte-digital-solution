@@ -6,21 +6,97 @@ $pageTitle = "Software Solutions | Prograte Digital Solutions";
 
 <head>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title><?php echo $pageTitle; ?></title>
+    <!-- SEO Title -->
+    <title>Custom Software Development Services | Prograte Digital Solutions</title>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- SEO Description -->
+    <meta name="description"
+          content="Prograte Digital Solutions develops custom software solutions including CRM systems, business management platforms, workflow automation, database systems, analytics and API integrations.">
 
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
-rel="stylesheet">
+    <!-- Search Engine Instructions -->
+    <meta name="robots"
+          content="index, follow, max-image-preview:large">
 
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <!-- Canonical URL -->
+    <link rel="canonical"
+          href="https://prograte-digital-solution.kesug.com/service-software.php">
 
-<link rel="stylesheet" href="css/style.css">
+    <!-- Google Search Console Verification -->
+    <meta name="google-site-verification"
+          content="tG3vsEn0CN9SgDVxwkpEI7pk_5h15Yl-I1PKfChhwzM">
+
+    <!-- Open Graph -->
+    <meta property="og:type"
+          content="website">
+
+    <meta property="og:title"
+          content="Custom Software Development Services | Prograte Digital Solutions">
+
+    <meta property="og:description"
+          content="Custom software solutions for business operations, CRM, workflow automation, database management, analytics and system integration.">
+
+    <meta property="og:url"
+          content="https://prograte-digital-solution.kesug.com/service-software.php">
+
+    <meta property="og:site_name"
+          content="Prograte Digital Solutions">
+
+    <meta property="og:locale"
+          content="en_US">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card"
+          content="summary_large_image">
+
+    <meta name="twitter:title"
+          content="Custom Software Development Services | Prograte Digital Solutions">
+
+    <meta name="twitter:description"
+          content="Professional custom software development for CRM, management systems, automation, databases, analytics and API integration.">
+
+    <!-- Favicon -->
+    <link rel="icon"
+          type="image/png"
+          href="assets/images/favicon.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <!-- Main CSS -->
+    <link rel="stylesheet"
+          href="css/style.css">
+
+    <!-- Custom Software Service Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Custom Software Development Services",
+      "serviceType": "Custom Software Development",
+      "description": "Custom software development services including CRM systems, business management platforms, workflow automation, database systems, business analytics and system integration.",
+      "url": "https://prograte-digital-solution.kesug.com/service-software.php",
+      "provider": {
+        "@type": "Organization",
+        "name": "Prograte Digital Solutions",
+        "url": "https://prograte-digital-solution.kesug.com/"
+      }
+    }
+    </script>
 
 </head>
 
